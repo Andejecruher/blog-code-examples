@@ -22,14 +22,6 @@ El contenido está organizado en carpetas por **lenguaje**, para que puedas enco
 
 Este repositorio es abierto y la colaboración es bienvenida. Si encuentras un error, tienes sugerencias de mejora o quieres añadir un nuevo ejemplo relacionado, no dudes en abrir un *Issue* o enviar un *Pull Request*.
 
-## 📋 Ejemplo de Artículos Destacados
-
-Aquí algunos de los ejemplos de código que puedes encontrar en este repositorio:
-
-- **Programación**
-  - Implementación de un sistema de autenticación en Next.js con JWT.
-  - Creación de una API RESTful usando Node.js, Sequelize y MySQL.
-  - Mejores prácticas en frontend: diseño accesible y componentes reutilizables en React.
 
 Para más detalles, visita [andejecruher.com](https://andejecruher.com/blog) y explora el blog completo.
 
