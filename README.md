@@ -6,7 +6,7 @@ Este repositorio contiene ejemplos de código prácticos y detallados para los a
 
 ## 📁 Estructura del Repositorio
 
-El contenido está organizado en carpetas por **lenguaje**, para que puedas encontrar fácilmente el código que te interesa. Dentro de cada carpeta de artículo, encontrarás:
+El contenido está organizado en carpetas por **lenguaje**, para que puedas encontrar fácilmente el código que te interesa. Dentro de cada carpeta encontrarás:
 
 - Un archivo `README.md` que explica el propósito del código, las instrucciones de instalación y ejecución, y cómo se relaciona con el contenido del artículo.
 - Código fuente y archivos de configuración necesarios.
