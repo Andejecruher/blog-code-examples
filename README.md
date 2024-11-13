@@ -28,7 +28,7 @@ Para más detalles, visita [andejecruher.com](https://andejecruher.com/blog) y e
 
 ## 🗂️ Articulos publicados con enlace a la carpeta del ejemplo:
 
-- **[Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](Node.js/api-nodejs-sequelize/README.md)**
+- **[Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](NodeJs/api-nodejs-sequelize/README.md)**
   - Construcción de una API RESTful usando Node.js, Sequelize y MySQL.
   - Incluye el setup inicial, modelos, rutas y controladores básicos.
 
