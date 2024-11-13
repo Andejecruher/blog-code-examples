@@ -22,8 +22,9 @@ Este proyecto es una API RESTful construida con Node.js, Express y Sequelize. La
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/api-node-sequelize.git
-   cd api-node-sequelize
+   git clone https://github.com/Andejecruher/blog-code-examples.git
+   
+   cd /blog-code-examples/NodeJs/api-node-sequelize
     ```
 
 2. Instala las dependencias:
