@@ -49,7 +49,6 @@ La API estará disponible en `http://localhost:3000`.
 
 ## Endpoints
 
-```markdown
 # API Node.js con Sequelize
 
 Este proyecto es una API RESTful construida con Node.js, Express y Sequelize. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de Pokémon.
