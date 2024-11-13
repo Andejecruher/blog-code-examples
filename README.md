@@ -22,21 +22,10 @@ El contenido está organizado en carpetas por **lenguaje**, para que puedas enco
 
 Este repositorio es abierto y la colaboración es bienvenida. Si encuentras un error, tienes sugerencias de mejora o quieres añadir un nuevo ejemplo relacionado, no dudes en abrir un *Issue* o enviar un *Pull Request*.
 
-
 Para más detalles, visita [andejecruher.com](https://andejecruher.com/blog) y explora el blog completo.
 
-
-## 🗂️ Articulos publicados con enlace a la carpeta del ejemplo:
+## 🗂️ Articulos publicados con enlace a la carpeta del ejemplo
 
 - **[Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](NodeJs/api-nodejs-sequelize/README.md)**
   - Construcción de una API RESTful usando Node.js, Sequelize y MySQL.
   - Incluye el setup inicial, modelos, rutas y controladores básicos.
-
-- **[Mejores prácticas en frontend: diseño accesible y componentes reutilizables en React](articulos/programacion/frontend-accessible-react/README.md)**
-  - Ejemplo de diseño accesible y componentes reutilizables en React.
-  - Ejemplo de estructura de componentes y configuración para mejorar la accesibilidad.
-
-- **[Guía completa para implementar login y registro en Next.js con autenticación por tokens](articulos/programacion/nextjs-authentication/README.md)**
-  - Ejemplo de autenticación en Next.js usando JWT.
-  - Cómo instalar dependencias, configurar rutas y gestionar tokens en un proyecto de Next.js.
-
