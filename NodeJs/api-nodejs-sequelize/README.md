@@ -74,4 +74,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull re
 
 Este proyecto está licenciado bajo la Licencia MIT.
 
-Para más detalles visita el articulo completo [Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](https://andejecruher.com/blog/1).
+Para más detalles visita el articulo completo [Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](https://andejecruher.com/blog/crea-una-api-restful-con-nodejs-sequelize-y-mariadb).
