@@ -29,3 +29,7 @@ Para más detalles, visita [andejecruher.com](https://andejecruher.com/blog) y e
 - **[Cómo crear una API con Node.js, Sequelize y MySQL para principiantes](NodeJs/api-nodejs-sequelize/README.md)**
   - Construcción de una API RESTful usando Node.js, Sequelize y MySQL.
   - Incluye el setup inicial, modelos, rutas y controladores básicos.
+  
+-**[Mejores prácticas en frontend: diseño accesible y componentes reutilizables en React 🖥️✨](https://www.andejecruher.com/blog/mejores-practicas-en-frontend-diseno-accesible-y-componentes-reutilizables-en-react)
+  - Diseñar accesible y construir componentes reutilizables
+  - optimiza el desarrollo y prepara tu aplicación para escalar.
